@@ -1,4 +1,5 @@
-FROM registry.access.redhat.com/rhscl/s2i-base-rhel7:1
+# FROM registry.access.redhat.com/rhscl/s2i-base-rhel7:1
+FROM rhscl/s2i-base-rhel7:1
 
 # This image provides a Ruby environment you can use to run your Ruby
 # applications.
